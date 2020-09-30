@@ -1,0 +1,30 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "co.za.applord.liftandshif"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "co.za.applord.liftandshif"
+    },
+    "cordova-plugin-ionic-webview": {
+      "PACKAGE_NAME": "co.za.applord.liftandshif"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "co.za.applord.liftandshif"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "co.za.applord.liftandshif"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "co.za.applord.liftandshif"
+    }
+  },
+  "dependent_plugins": {}
+}
